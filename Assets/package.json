@@ -1,0 +1,9 @@
+{
+  "name": "com.simas.myunitypackage",
+  "version": "1.0.0",
+  "displayName": "My Unity Package",
+  "description": "This is a sample Unity package for demonstration purposes.",
+  "unity": "2021.3",
+  "author": {},
+  "dependencies": {}
+}
